@@ -1,0 +1,41 @@
+# ===== Global Node (React frontend) =====
+frontend/node_modules/
+frontend/.env
+frontend/.DS_Store
+frontend/build/
+frontend/dist/
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/.pnp/
+frontend/.pnp.js
+
+# Optional Vite/React specific
+frontend/.vite/
+
+# ===== Java/Spring Boot backend =====
+backend/target/
+backend/.classpath
+backend/.project
+backend/.settings/
+backend/.idea/
+backend/.env
+backend/.*.swp
+backend/mvnw
+backend/mvnw.cmd
+backend/.mvn/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IntelliJ or VSCode
+.idea/
+.vscode/
+
+# Git
+*.iml
+
